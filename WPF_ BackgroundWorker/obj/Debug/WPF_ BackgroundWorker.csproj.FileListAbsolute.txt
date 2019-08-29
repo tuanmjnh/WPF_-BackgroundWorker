@@ -1,0 +1,15 @@
+D:\Applications\WPF_ BackgroundWorker\WPF_ BackgroundWorker\bin\Debug\WPF_ BackgroundWorker.exe.config
+D:\Applications\WPF_ BackgroundWorker\WPF_ BackgroundWorker\bin\Debug\WPF_ BackgroundWorker.exe
+D:\Applications\WPF_ BackgroundWorker\WPF_ BackgroundWorker\bin\Debug\WPF_ BackgroundWorker.pdb
+D:\Applications\WPF_ BackgroundWorker\WPF_ BackgroundWorker\obj\Debug\WPF_ BackgroundWorker.csprojAssemblyReference.cache
+D:\Applications\WPF_ BackgroundWorker\WPF_ BackgroundWorker\obj\Debug\MainWindow.g.cs
+D:\Applications\WPF_ BackgroundWorker\WPF_ BackgroundWorker\obj\Debug\App.g.cs
+D:\Applications\WPF_ BackgroundWorker\WPF_ BackgroundWorker\obj\Debug\WPF_ BackgroundWorker_MarkupCompile.cache
+D:\Applications\WPF_ BackgroundWorker\WPF_ BackgroundWorker\obj\Debug\WPF_ BackgroundWorker_MarkupCompile.lref
+D:\Applications\WPF_ BackgroundWorker\WPF_ BackgroundWorker\obj\Debug\MainWindow.baml
+D:\Applications\WPF_ BackgroundWorker\WPF_ BackgroundWorker\obj\Debug\WPF_ BackgroundWorker.g.resources
+D:\Applications\WPF_ BackgroundWorker\WPF_ BackgroundWorker\obj\Debug\WPF__BackgroundWorker.Properties.Resources.resources
+D:\Applications\WPF_ BackgroundWorker\WPF_ BackgroundWorker\obj\Debug\WPF_ BackgroundWorker.csproj.GenerateResource.cache
+D:\Applications\WPF_ BackgroundWorker\WPF_ BackgroundWorker\obj\Debug\WPF_ BackgroundWorker.csproj.CoreCompileInputs.cache
+D:\Applications\WPF_ BackgroundWorker\WPF_ BackgroundWorker\obj\Debug\WPF_ BackgroundWorker.exe
+D:\Applications\WPF_ BackgroundWorker\WPF_ BackgroundWorker\obj\Debug\WPF_ BackgroundWorker.pdb
